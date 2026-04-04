@@ -1,3 +1,5 @@
-user_name = input("Enter you name, my love: ")
-print(f"Hello world {user_name} is becoming a Senior Developer with Alexia.")
-print("I'm mastering VS Code and Git!")
+nombre_pieza = "Viga de acero"
+cantidad = 15
+peso_kg = 120.75
+esta_lista = True
+print(type(nombre_pieza), type(cantidad), type(peso_kg), type(esta_lista))
