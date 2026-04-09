@@ -1,0 +1,3 @@
+Operator: Marcial, Production Status: STANDARD, Pieces Produced: 30
+Operator: Luis, Production Status: STANDARD, Pieces Produced: 40
+Operator: Pedro, Production Status: STANDARD, Pieces Produced: 10
