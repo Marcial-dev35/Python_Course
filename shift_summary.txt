@@ -7,3 +7,20 @@
 
 -----------------------------------
 
+--- NEW PRODUCTION BATCH ---
+Approved Measure: (120.0, 'APPROVED')
+Approved Measure: (110.0, 'APPROVED')
+Approved Measure: (69.0, 'APPROVED')
+Approved Measure: (90.0, 'APPROVED')
+Approved Measure: (135.0, 'APPROVED')
+-----------------------------------
+
+--- NEW PRODUCTION BATCH ---
+Approved Measure: (70.0, 'APPROVED')
+Approved Measure: (80.0, 'APPROVED')
+Approved Measure: (90.0, 'APPROVED')
+Approved Measure: (100.0, 'APPROVED')
+Approved Measure: (110.0, 'APPROVED')
+Approved Measure: (120.0, 'APPROVED')
+-----------------------------------
+
