@@ -1,3 +1,4 @@
 Operator: Marcial, Production Status: STANDARD, Pieces Produced: 30
 Operator: Luis, Production Status: STANDARD, Pieces Produced: 40
 Operator: Pedro, Production Status: STANDARD, Pieces Produced: 10
+Operator: & C:/Users/User/AppData/Local/Python/pythoncore-3.14-64/python.exe c:/Users/User/OneDrive/Desktop/Python_Course/practica_3.py, Production Status: STANDARD, Pieces Produced: 5
