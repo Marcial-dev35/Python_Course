@@ -16,7 +16,7 @@ try:
     total_prod, eff_rate = process_batch(machine, ok, rejected)
 
     #6. Output results and save to file
-    report_text = f"Machine: {machine} | Total: {total_prod} | Efficiency: {eff_rate: .2f}%"
+    report_text = f"Machine: {machine} | Total: {total_prod} | Efficiency: {eff_rate:.2f}%"
     print(f"\n Success: {report_text}")
 
     with open("daily_report.txt", "a") as file:
@@ -24,9 +24,9 @@ try:
         print("Data saved to daily_report.txt")
 
 except ValueError:
-    print("Eroor: Please enter numeric values for the pieces!")
+    print("Error: Please enter numeric values for the pieces!")
 
 except ZeroDivisionError:
     print("Error: Total pieces cannot be zero!")
-    
+
     
