@@ -1,0 +1,14 @@
+[
+    {
+        "codigo": "A1",
+        "defectos": 3
+    },
+    {
+        "codigo": "B2",
+        "defectos": 0
+    },
+    {
+        "codigo": "C3",
+        "defectos": 1
+    }
+]
